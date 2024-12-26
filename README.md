@@ -54,15 +54,19 @@ The purpose of this Power BI project is to provide a comprehensive visual tool f
 - A timeline showing the release dates of the most-streamed songs, helping to identify whether recent releases or older songs dominate Spotify's streaming charts.
 
 <h2>Data Source</h2>
-<b>The data focused on metrics relevant to the most-streamed songs of 2023. Each song’s data includes</b>
-
-- Total streams.
-- Acousticness, danceability, liveness, speechiness, and valence scores.
-- Release date and other metadata.
+<b>The data for this report likely includes</b>
+ - Nike's official product catalog.
+ - Image files and product descriptions sourced from Nike's website or internal databases.
 
 
 <h2>Technical Details</h2>
-<b>This project uses several Power BI features to achieve a visually compelling and insightful dashboard</b>
+Software Used: Power BI Desktop
+Components:
+- Slicer filters for navigation and exploration.
+- Text boxes for product descriptions.
+- Image visuals for displaying product designs.
+- Grid layout for showcasing alternative sneaker options.
+Integrations: Possible integration with Excel files or SQL databases containing product details and metadata
 
 - Custom Visualizations: Utilized Power BI's native charts and custom visualizations for the bar and gauge charts.
 
