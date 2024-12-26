@@ -13,13 +13,13 @@ Report Snapshot  <br/>
 <br />
 </p>
 
+<h3 align="center">Report Snapshot</h3>
 <p align="center">
-Report Snapshot  
-
 <img src="https://imgur.com/XHDJpTk.png" height="80%" width="80%"/>
-
-
+<br />
+<br />
 </p>
+
 
 
 <h2>Project Purpose</h2>
