@@ -8,7 +8,7 @@ This Power BI dashboard was created to visualize Nike Product Data. It highlight
 
 <p align="center">
 Report Snapshot  <br/>
-<img src="https://imgur.com/XHDJpTk" height="80%" width="80%"/>
+<img src="https://imgur.com/XHDJpTk.png" height="80%" width="80%"/>
 <br />
 <br />
 
