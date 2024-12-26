@@ -6,12 +6,6 @@
 <h2>Description</h2>
 This Power BI dashboard was created to visualize Nike Product Data. It highlights the product name, image design and details of the product.
 
-<p align="center">
-Report Snapshot  <br/>
-<img src="https://imgur.com/XHDJpTk.png" height="80%" width="80%"/>
-<br />
-<br />
-</p>
 
 <h3 align="center">Report Snapshot</h3>
 <p align="center">
