@@ -11,6 +11,7 @@ Report Snapshot  <br/>
 <img src="https://imgur.com/XHDJpTk.png" height="80%" width="80%"/>
 <br />
 <br />
+</p>
 
 <h2>Project Purpose</h2>
 The purpose of this project is to analyze streaming data for Spotify’s most popular songs, identify trends, and visualize the metrics that define a "hit" song in terms of streams, release date, and musical characteristics. This dashboard is designed to offer a clear, interactive view of Spotify's top music trends for 2023, with an emphasis on key performance metrics like total streams, track energy, and monthly streaming patterns.
