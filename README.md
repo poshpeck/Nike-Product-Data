@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-This Power BI dashboard was created to visualize Nike Product Data. It highlights the product name, image design and details of the product.
+This project is a Power BI visualization focusing on Nike footwear. It showcases a dynamic and interactive dashboard designed for users to explore key product details such as features, styles, and specifications of Nike shoes. The highlighted model in this report is the Nike Metcon 5 AMP, presented alongside other popular styles.
 
 
 <h3 align="center">Report Snapshot</h3>
@@ -17,13 +17,28 @@ This Power BI dashboard was created to visualize Nike Product Data. It highlight
 
 
 <h2>Project Purpose</h2>
-The purpose of this project is to analyze streaming data for Spotify’s most popular songs, identify trends, and visualize the metrics that define a "hit" song in terms of streams, release date, and musical characteristics. This dashboard is designed to offer a clear, interactive view of Spotify's top music trends for 2023, with an emphasis on key performance metrics like total streams, track energy, and monthly streaming patterns.
+The purpose of this Power BI project is to provide a comprehensive visual tool for showcasing Nike products to stakeholders, such as sales teams, marketing professionals, or retail customers. The visualization helps in analyzing product features, marketing impact, and consumer preferences.
 
 <h2>Key Features</h2>
 
-<b>Overview of Top Streamed Song</b>
-- Track Details: Displays essential details for "Blinding Lights," including artist, release date, and total streams.
-- Musical Characteristics: Shows metrics like acousticness, danceability, liveness, speechiness, and valence for a deeper understanding of song composition.
+1. Product Overview:
+
+ - Displays the Nike Metcon 5 AMP, emphasizing its features like stability for heavy lifting and durability for high-impact training.
+ - Includes additional sneaker designs for comparative insights.
+   
+2. Interactive Design:
+
+ - Hover and click functionalities for detailed exploration of images and descriptions.
+ - Layout optimized for intuitive navigation.
+   
+3. Visuals and Styling:
+
+ - Clean and modern aesthetic aligning with Nike’s branding.
+ - Detailed images of the shoes from multiple angles (top, side, and sole views).
+
+4. Custom Filters:
+
+ - Allows filtering by shoe categories, styles, and purposes.
 
 
 <b>Tracks by Stream Count </b>
